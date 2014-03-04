@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gpa new", "gpa new\gpa new.vcproj", "{9E994DD7-FA8F-43F2-9538-714D92FA2FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E994DD7-FA8F-43F2-9538-714D92FA2FCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E994DD7-FA8F-43F2-9538-714D92FA2FCF}.Debug|Win32.Build.0 = Debug|Win32
+		{9E994DD7-FA8F-43F2-9538-714D92FA2FCF}.Release|Win32.ActiveCfg = Release|Win32
+		{9E994DD7-FA8F-43F2-9538-714D92FA2FCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
